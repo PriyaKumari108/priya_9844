@@ -30,7 +30,7 @@ PRIYA_LMS/
 Setup Instructions
 Clone the repository:
 
-git clone https://github.com/priya kumari/Gaurav_5122.git
+git clone https://github.com/PriyaKumari108/priya_9844.git
 cd PRIYA_LMS
 Create a virtual environment and activate it:
 
